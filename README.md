@@ -5,7 +5,7 @@ This script automates the process of searching for an icon on the screen and cli
 ## Requirements
 
 - Python 3.x
-- `pyautogui` library
+- `uv` library
 
 You can activate the existing virtual environment to use the required library.
 
